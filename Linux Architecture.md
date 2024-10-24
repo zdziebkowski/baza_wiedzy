@@ -1,7 +1,3 @@
-Home: [[Linux]]
-[[Linux rozwinięcie]]
-
-![[Excalidraw/Linux Architecture|Linux Architecture]]
 # Wstęp
 - **Linux - definicja**:
     - Linux to **system operacyjny typu open source**, oparty na systemie UNIX.
@@ -34,7 +30,7 @@ Home: [[Linux]]
     - **openSUSE**
     - **Deepin**
 # Składniki Linuxa
-![[Linux - warstwy systemu]]
+
 ## Jądro systemu Linux:
 - Jądro to **kluczowy komponent** systemu operacyjnego, który kontroluje działanie sprzętu oraz innych procesów systemowych.
 - **Zarządza zasobami sprzętowymi** (takimi jak pamięć, procesor), dostarczając każdemu procesowi **niezbędne zasoby wirtualne**.
