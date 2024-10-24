@@ -1,4 +1,4 @@
-![Mind map](Attachments/Linux Architecture.png)
+![Mind map](baza_wiedzy/Attachments/Linux Architecture.png)
 
 # Wstęp
 - **Linux - definicja**:
@@ -32,7 +32,7 @@
     - **openSUSE**
     - **Deepin**
 # Składniki Linuxa
-![Warstwy stystemu](Attachments/Linux - warstwy systemu.png)
+![Warstwy stystemu](baza_wiedzy/Attachments/Linux - warstwy systemu.png)
 ## Jądro systemu Linux:
 - Jądro to **kluczowy komponent** systemu operacyjnego, który kontroluje działanie sprzętu oraz innych procesów systemowych.
 - **Zarządza zasobami sprzętowymi** (takimi jak pamięć, procesor), dostarczając każdemu procesowi **niezbędne zasoby wirtualne**.
